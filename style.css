@@ -1,0 +1,18 @@
+body {
+    font-family: comic , sans-serif;
+    text-align: center;
+    background-color: #040404;
+    color: white;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+canvas {
+    background-color: #919090;
+    border: 2px solid white;
+    border-radius: 10px;
+}
