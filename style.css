@@ -15,4 +15,5 @@ canvas {
     background-color: #919090;
     border: 2px solid white;
     border-radius: 10px;
+    box-shadow: 0 0 10px 5px rgb(255, 255, 255);
 }
